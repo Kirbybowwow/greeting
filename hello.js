@@ -1,3 +1,7 @@
 function hello() {
-  return "Hello World!";
+  return "This will be a passing test!";
+}
+
+function sum() {
+  return 2 + 3;
 }
